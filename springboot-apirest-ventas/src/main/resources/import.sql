@@ -7,3 +7,6 @@ INSERT INTO proveedor(direccion, email, nif, nombre, telefono) VALUES ("bilbao",
 INSERT INTO clientes (nombre, apellido, email, nif, telefono) VALUES ("carlos","Angulo","carles1981@gmail.com","y8955555",589632);
 INSERT INTO clientes (nombre, apellido, email, nif, telefono) VALUES ("Jose","Moreno","tesss@gmail.com","ccdcd555",98655232);
 INSERT INTO clientes (nombre, apellido, email, nif, telefono) VALUES ("rosana","maguina","test3@gmail.com","y8vvv55555",123456789);
+
+
+INSERT INTO producto( cantidad, cod_producto, fecha_registro, nombre, precio, tipo) VALUES (5,"cccdcd","2022-06-15","cdncjdnc",20.40,"cdmcdkm");
